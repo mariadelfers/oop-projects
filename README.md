@@ -1,8 +1,14 @@
 # 🧊 Object Oriented Programing Projects
-- Agenda
+
+## Projects
+### Agenda
 A phone book where you can save contacts.
-- Domino
-- TicTacToe
+### Domino
+A Domino game with tiles.
+### Poker
+A Poker game, you win when you complet a valid hand.
+### TicTacToe
 The TicTacToe game against the machine.
+
 ## 🛠️ Tools
 Java
